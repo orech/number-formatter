@@ -1,0 +1,32 @@
+{
+  "name": "melony",
+  "version": "0.0.1",
+  "description": "test node.js module",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.5.7"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  },
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orech/number-formatter.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Melony Fox <anett_@list.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orech/number-formatter/issues"
+  },
+  "homepage": "https://github.com/orech/number-formatter#readme",
+  "engines": {
+    "node": ">=4.2.4"
+  }
+}
